@@ -1,0 +1,8 @@
+@media (max-width: 450px){
+    button{
+        
+        padding: 16px 25px;
+       
+        border-radius: 40px;
+    }
+}
